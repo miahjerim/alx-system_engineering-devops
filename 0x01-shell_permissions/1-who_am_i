@@ -1,2 +1,2 @@
-#!/bin/bsh
-id -un
+#!/bin/bash
+whoami
